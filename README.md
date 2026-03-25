@@ -1,16 +1,39 @@
-# 👋 I'm Raguram R
+# 👋 Hi, I'm Raguram R  
 
-**Software Engineer | MERN & AI Architect** Building scalable tools that bridge the gap between Web Architecture and AI.
+💻 Full-Stack Developer (MERN) building AI-powered applications  
+🧠 Exploring Machine Learning & LLM-based systems  
+🚀 Focused on solving real-world problems through scalable software  
 
-### 🛠️ Tech Stack
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+---
 
-### 🚀 Featured Project: CodePilot
-*An AI-native mobile code editor for on-the-go development.*
-- **Core:** React Native + Expo + CodeMirror
-- **Intelligence:** LLM orchestration (Gemini-2.5-flash & Groq Llama-3)
-- **Features:** OAuth, Git Integration, and a VS-Code style save system.
+## 🔥 What I’m Working On  
+- 🧩 Building **CodePilot** – an AI-powered mobile code editor  
+- 🤖 Learning ML (Regression → Classification → LLM apps)  
+- 📈 Improving problem-solving with Data Structures & Algorithms  
+
+---
+
+## 🛠️ Tech Stack  
+**Frontend:** React, React Native  
+**Backend:** Node.js, Express.js  
+**Database:** MongoDB, PostgreSQL  
+**AI/ML:** Python, Scikit-learn (basics), LLM APIs (Gemini, Groq)  
+
+---
+
+## 🚀 Featured Project  
+
+### 🧠 CodePilot – AI Mobile Code Editor  
+An AI-native development environment designed for mobile-first coding.
+
+- ⚡ Real-time AI code analysis & editing  
+- 🔁 GitHub integration (fetch, edit, commit)  
+- 🧠 LLM orchestration (Gemini + Groq)  
+- 💾 VS Code-like save & undo system  
+
+---
+
+## 📫 Connect With Me  
+- 🌐 Portfolio: https://raguram-portfolio.vercel.app  
+- 💼 LinkedIn: https://linkedin.com/in/raguram-r-92504a286  
+- 📧 Email: ragu317317@gmail.com  
