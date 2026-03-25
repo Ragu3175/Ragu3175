@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Raguram R  
 
-**Software Engineer | MERN & AI Architect** 💻 Building high-performance, AI-native applications with a focus on scalable architecture.  
+**Software Engineer | MERN & AI Architect** 
+💻 Building high-performance, AI-native applications with a focus on scalable architecture.  
 🧠 Exploring the intersection of **LLM Orchestration** and **System Design**.  
 🚀 Dedicated to solving real-world challenges through clean, production-ready code.
 
