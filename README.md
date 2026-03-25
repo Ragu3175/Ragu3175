@@ -8,16 +8,27 @@
 
 ## 🛠️ Tech Stack  
 
+### ⚛️ Core Stack  
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Native](https://img.shields.io/badge/react_native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/express.js-404D59?style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+---
+
+🔹 **Frontend:**  
+React.js, React Native, Tailwind CSS, CodeMirror  
+
+🔹 **Backend:**  
+Node.js (Express.js), Java (Spring Boot), Python  
+
+🔹 **Database:**  
+MongoDB (NoSQL), PostgreSQL  
+
+🔹 **AI/ML:**  
+Scikit-learn (basics), LLM APIs (Gemini, Groq)  
+
+🔹 **Auth & Security:**  
+OAuth 2.0, Session Management, Middleware  
 
 ---
 
