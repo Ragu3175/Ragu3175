@@ -8,35 +8,20 @@
 
 ## 🛠️ Tech Stack  
 
-### ⚛️ Core Stack  
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
----
-
-🔹 **Frontend:**  
-React.js, React Native, Tailwind CSS, CodeMirror  
-
-🔹 **Backend:**  
-Node.js (Express.js), Java (Spring Boot), Python  
-
-🔹 **Database:**  
-MongoDB (NoSQL), PostgreSQL  
-
-🔹 **AI/ML:**  
-Scikit-learn (basics), LLM APIs (Gemini, Groq)  
-
-🔹 **Auth & Security:**  
-OAuth 2.0, Session Management, Middleware  
+⚛️ **Frontend:** React.js, React Native, Tailwind CSS, CodeMirror  
+⚙️ **Backend:** Node.js (Express.js), Java (Spring Boot), Python  
+🗄️ **Database:** MongoDB (NoSQL), PostgreSQL  
+🤖 **AI/ML:** Scikit-learn (basics), LLM APIs (Gemini, Groq)  
+🔐 **Auth & Security:** OAuth 2.0, Session Management, Middleware  
 
 ---
 
 ## 🔥 What I’m Working On  
 
-- 🧩 **CodePilot** – AI-powered mobile code editor  
-- 🤖 Learning ML (Regression → Classification → LLM apps)  
-- 📈 Strengthening DSA & system design fundamentals  
+- 🧩 **CodePilot** – AI-powered mobile development environment for real-time coding  
+- 🤖 Advancing in ML → Regression → Classification → LLM-based applications  
+- 📈 Strengthening DSA (patterns + problem-solving mindset)  
+- 🏗️ Learning scalable backend design and API architecture  
 
 ---
 
@@ -46,10 +31,20 @@ OAuth 2.0, Session Management, Middleware
 
 An AI-native development environment designed for mobile-first coding.  
 
-- ⚡ Multi-model LLM integration (Gemini + Groq) with fallback logic  
-- 🔁 GitHub integration (OAuth + repo management)  
-- 💾 VS Code-like save system with AsyncStorage  
-- 🏗️ Modular architecture with Node.js backend  
+- ⚡ **AI Intelligence:** Multi-model LLM integration (Gemini + Groq) with fallback logic  
+- 🔁 **Developer Workflow:** GitHub integration (OAuth, repo fetch, edit, commit)  
+- 💾 **State Management:** VS Code-like save system using AsyncStorage  
+- 🧠 **Smart Editing:** AI-powered code analysis, suggestions, and diff viewer  
+- 🏗️ **Architecture:** Modular frontend with scalable Node.js backend  
+
+---
+
+## 📌 Highlights  
+
+- 🚀 Built a real-world AI-powered developer tool (CodePilot)  
+- 🧠 Strong foundation in MERN stack + growing in AI/ML  
+- 🔍 Focused on clean architecture and problem-solving  
+- 📱 Exploring mobile-first developer experiences  
 
 ---
 
