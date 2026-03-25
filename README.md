@@ -10,7 +10,8 @@
 ## 🛠️ Tech Stack  
 
 - **Frontend:** React.js, React Native, Tailwind CSS, CodeMirror  
-- **Backend & Architecture:** Node.js (Express.js), **Java (Spring Boot)**, Python, **System Design**, **Microservices Architecture**, **API Design & CRUD Orchestration** - **Security:** OAuth 2.0, Secure Session Management, Middleware Integration  
+- **Backend & Architecture:** Node.js (Express.js), **Java (Spring Boot)**, Python, **System Design**, **Microservices Architecture**, **API Design & CRUD
+- **Security & Auth:** ** OAuth 2.0, Secure Session Management, Middleware Integration  
 - **Database:** MongoDB (NoSQL), **PostgreSQL (Relational)** - **Cloud & DevOps:** **Docker (Containerization)**, AWS (EC2/S3), GitHub Actions (CI/CD)  
 - **AI/ML:** Scikit-learn, LLM APIs (Gemini, Groq)  
 
