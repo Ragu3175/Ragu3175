@@ -61,6 +61,6 @@ Currently deep in an **Agentic AI Architecture** track — LangChain, LangGraph,
 
 ### 📫 Connect
 
-- 🌐 Portfolio: [raguram-portfolio.vercel.app](https://raguram-portfolio.vercel.app)
+- 🌐 Portfolio: [raguram-portfolio.vercel.app](https://raguram-portfolio-2026.vercel.app)
 - 💼 LinkedIn: [linkedin.com/in/raguram-r-92504a286](https://linkedin.com/in/raguram-r-92504a286)
 - 📧 Email: ragu317317@gmail.com
